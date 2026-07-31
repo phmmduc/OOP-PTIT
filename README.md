@@ -1013,5 +1013,3 @@ public class Order {
 - Sách *Design Patterns* (Gang of Four) — khi đã vững OOP cơ bản
 
 ---
-
-*File này được tạo để tự học — có thể chỉnh sửa, bổ sung ví dụ code của riêng bạn khi luyện tập.*
